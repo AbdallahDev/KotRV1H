@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="400dp"
+    android:minWidth="400dp"
+    android:orientation="vertical"
+    tools:context="com.jhr.abdallahsarayrah.kotrv1h.ShowImage">
+
+    <ImageView
+        android:id="@+id/imageView_dialogFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_launcher_background" />
+
+</LinearLayout>
